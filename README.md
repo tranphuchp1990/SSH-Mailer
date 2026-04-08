@@ -1,7 +1,8 @@
 SSH mailer is a method of sending emails using SSH instead of SMTP, offering much better quality.
 
 <strong>************ SSH Mailer New Version 1.5 Available ********************</strong>
-![Screenshot](/Sanmao_SMTP_Cracker_1.75.png)
+![Screenshot](/SSH-Mailer-1.5-1.png)
+![Screenshot](/Screenshot_14-1.png)
 
 <h2>🎬 Demo Video</h2>
 <p>
